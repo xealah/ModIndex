@@ -2,15 +2,19 @@
 
 > By adding Mod Index to your server, you agree to these terms of service.
 
-> If you have any questions about these Terms and Conditions, You can email us at contact@xealah.com.
+> For inquiries regarding these Terms and Conditions, please reach out to us via email at contact@xealah.com.
 
 ## Terms of Service
-Intentional command spam or attempts to crash the bot should not be made.
+Avoid intentionally spamming commands or trying to crash the bot deliberately.
 
-Mod Index should not be used in bot spam servers which cause command spam.
+Please refrain from using Mod Index in servers that promote bot spam or excessive command usage.
 
-Mod Index reserves the rights to prohibit any server or user from using the bot.
+Mod Index holds the authority to restrict any server or user from accessing the bot.
 
-The client is responsible for any violation caused by them.
+Users are accountable for any violations they commit.
 
-We have the rights to update terms of service anytime with a notice in the Mod Index server.
+We retain the right to modify the terms of service at any time, providing notice within the Mod Index server.
+
+## Privacy Policy
+
+At Mod Index, we understand your concern for safeguarding personal information. That's why we have a strict policy of not retaining any client data to ensure your privacy is respected.
